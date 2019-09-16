@@ -48,3 +48,20 @@ with the key [ASAqAao_fBsdyeNARM_pg7sRvEBm6XwzC_80dJ48hOcamwo](https://keybase.i
 
 ```
 hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKgGqP3wbHcnjQETP6YO7EbxAZul8Mwv/NHSePITnGpsKp3BheWxvYWTESpcCB8QgHhbeltTc1MzCIEQlvdp6rUtwhxHfuaRUmKAdMBQNHn/EINmkFIZPVcENvSqkoE7eeeIS7w+4GPdiO6zqkHjJb9C5AgHCo3NpZ8RAwYpI+VwSHNdz91Nfr0/IZXURflWTG32cNl8soO9SwdlTFIpCVzOfVPDm3nlGuauDJDOi3OKcJwR8gvhuCkovAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAR98GLuhKTjRM1UYp/tWEK5+f1jkVs8wIuejICydR15o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/jacrat
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id jacrat
+```
